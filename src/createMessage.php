@@ -62,7 +62,7 @@ No.1からNo.75169468182139100842291361742848までの<br
         "あ"は"1"、"い"は"2"として変換して<br>
         それぞれを67進数として計算してNo.にしています<br><br>
         詳しいプログラムはGithubに上げています
-        <a href="">Github</a></b>';
+        <a href="https://github.com/sakuragi2172/haikudata">Github</a></b>';
     }
     function showSearhResult(){
         echo '<br>
